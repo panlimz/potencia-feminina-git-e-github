@@ -5,9 +5,9 @@
 
 ### [Módulo 1 - Conceitos](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo1/resumo-do-modulo1.md)
 ### [Módulo 2 - Repositórios](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo2/resumo-do-modulo2.md)
-### [Módulo 3 - Branchs](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo3/resumo-do-modulo3.md)
+### [Módulo 3 - Branches](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo3/resumo-do-modulo3.md)
 ### [Módulo 4 - Colaboração](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo4/resumo-do-modulo4.md)
-### [Módulo 5 - Github Project](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo5/resumo-do-modulo5.md)
+### [Módulo 5 - Github Projects](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo5/resumo-do-modulo5.md)
 ### [Módulo 6 - Revisão e exercícios](https://github.com/panlimz/potencia-feminina-git-e-github/blob/master/modulo6.md/notasdeula.md)
 
 
