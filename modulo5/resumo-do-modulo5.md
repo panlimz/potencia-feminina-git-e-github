@@ -5,4 +5,4 @@
 
 Em grupo, cada tarefa pode ser atribuída para pessoas e acompanhadas por gerentes de projetos e equipe;
 
-Foi apresentado o template automated Kanban, onde é possível associar issues criadas ao projeto e cada pull request move automaticamente aquela tarefa do projeto.
+Foi apresentado o template automated Kanban, onde é possível associar issues criadas ao projeto e cada pull request move automaticamente aquela tarefa do projeto conforme andamento.
